@@ -16,7 +16,7 @@ Followings are Screenshots from HackerRank.
 
 ![Image](https://github.com/user-attachments/assets/8421c238-1752-4688-b4c9-fdb47097e0b8)
 
-I had written this query. But this qurey has logical in the **case** statement. The "Not a Triangle" condition is placed after the checks for **"Equilateral"** and **"Isosceles"**, which means it will never be reached when it should be.
+I had written this query. But this qurey has logical issue in the **case** statement. The "Not a Triangle" condition is placed after the checks for **"Equilateral"** and **"Isosceles"**, which means it will never be reached when it should be.
 
 ### Issues in the above Query:
 
